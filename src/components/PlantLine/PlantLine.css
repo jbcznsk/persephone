@@ -1,0 +1,5 @@
+.image-grid {
+    display: grid;
+    grid-template: (4,4);
+    gap: 10px;
+}
