@@ -5,7 +5,7 @@ export const Plant = (props) => {
         <div>
             <p>{props.name}</p>
             <img 
-                src={`https://raw.githubusercontent.com/jbcznsk/imgs/main/${props.src}`}
+                src={`https://raw.githubusercontent.com/jbcznsk/imgs/main/${props.src}.jpg`}
                 alt=''
                 />
         </div>
